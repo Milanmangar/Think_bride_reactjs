@@ -1,0 +1,58 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.item_list_main{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.text-center{
+  width: 24rem;
+  height: 16rem;
+}
+
+.card-img-top{
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+.item_list_main{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.card_style{
+  border: 1px solid #bec1c4;
+  font-family: 'Balsamiq Sans', cursive;
+  border-radius: 4px;
+}
+
+.card_text {white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+  max-width: 350px;
+  text-align: center;
+}
+
+.card_image {
+  height: 300px;
+  width: 100%
+}
+
+.card_header{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card_text {
+  margin-top: 5px;
+  padding-left: 4px;
+}

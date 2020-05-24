@@ -1,0 +1,78 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+
+
+.update_form{
+  border: 1px solid #E0E0E0;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.update_form{
+  border: 1px solid #E0E0E0;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 3px;
+}
+
+.update_form h2{
+  border-bottom: 1px solid #C0C0C0;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: black;
+}
+
+.update_form img{
+  margin-left: 42px;
+  height: 100px;
+  width: 100px;
+  margin-top: 26px;
+  margin-bottom: 20px;
+}
+
+.update_form input, textarea{
+  padding: 2px;
+  border-radius: 2px;
+  border: 1px solid grey;
+  width: 100%;
+  font-family: none;
+}
+
+.update{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.footer{
+  margin-bottom: 20px;
+}
+
+.body{
+  margin-top: 20px;
+}
+
+.con_class{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.body p{
+  font-weight: bold;
+  color: black;
+}
+
+/* #update_message{
+  text-align: center;
+  background-color: #427ef5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Balsamiq Sans', cursive;
+  color: white;
+} */

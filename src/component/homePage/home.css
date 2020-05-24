@@ -1,0 +1,60 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.home_main_css{
+  text-align:center;
+  padding-top: 50px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+#message_display{
+  background-color: white;;
+  height:40px;
+  margin-bottom: 10px;
+  color: white;
+  padding-top: 7px;
+}
+
+.heading{
+  color: #ed641a;
+}
+
+.form-control {
+    width: 44%;
+}
+
+.form-group input{
+  margin-left: 293px;
+  text-align: center;
+  border: 1px solid;
+  font-family: none;
+}
+
+.form_cont {
+    background-color: #a1eb34;
+    padding-top: 41px;
+    margin-bottom: 29px;
+    margin-left: 11px;
+    padding-bottom: 22px;
+    border-radius: 5px;
+}
+
+#item_form{
+  display: none;
+}
+
+.cancel{
+  margin-left: 10px;
+}
+
+#desc{
+  margin-left: 293px;
+  text-align: center;
+  border: 1px solid;
+  font-family: none;
+}
